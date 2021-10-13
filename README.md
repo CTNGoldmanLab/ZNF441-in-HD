@@ -1,1 +1,6 @@
-# ZNF441-in-HD
+#### Altered DNA methylome in human glial progenitor cells releases the expression of primate-specific astrocytic zinc finger repressors in Huntington’s disease
+##### Abstract
+Huntington’s disease (HD) is characterized by a mutant HTT-dependent block in glial maturation, and consequent disrupted synaptogenesis. We asked if mHTT might restrict glial differentiation by altering the DNA methylome of human glial progenitor cells (hGPCs). hGPCs derived from HD hESCs exhibited reduced methylation of promoters of several KRAB-zinc finger (ZNF) repressors; these included a subset of aberrantly overexpressed primate-specific ZNFs. ATAC-Seq then revealed decreased chromatin accessibility at the promoters of ZNF target genes; these included genes essential for both glial development and synaptic assembly. Single-cell RNAseq showed that ZNF441 overexpression reduced glial expression of neuroglial and synaptic adhesion molecules, and network analysis revealed that ZNF441 was upstream of NOVA1, whose dysregulation has been linked to synaptic dysgenesis. These data suggest that HD GPCs mis-express a set of human-specific KRAB-ZNF repressors, through an mHTT-linked reduction in methylation at their promoters, which in turn impedes the developmental expression of a critical set of gliogenic and synaptogenic genes. 
+
+##### Codes 
+codes available upon publication
